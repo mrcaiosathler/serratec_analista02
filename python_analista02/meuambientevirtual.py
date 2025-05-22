@@ -1,0 +1,4 @@
+import faker
+
+
+print("amendoim")
